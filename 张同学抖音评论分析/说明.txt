@@ -1,0 +1,5 @@
+文本分析.ipynb：文本分析评论的代码
+biao_qing.py：提取评论中的emoji表情，分词时过滤掉
+comments.txt：抓取的评论
+douyin_comment_crawler.py：抓评论代码
+lad_tree.py：调用pyecharts画主题和评论的树状图
